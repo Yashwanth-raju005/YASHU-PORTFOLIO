@@ -1,0 +1,30 @@
+@media screen and (max-width:1280px) {  
+    .bg {
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+    .nav-right {
+        padding-left: 600px;
+    }
+
+    .txt {
+        font-size: 18px;
+    }
+    .video{
+        width: 400px;
+        margin-right: 80px;
+        
+    }
+
+    .home {
+        margin-bottom: 40px;
+    }
+
+    .images img {
+        left: 63%;
+    }
+
+    table {
+        padding-left: 66px;
+    }
+}
